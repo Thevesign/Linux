@@ -25,7 +25,6 @@
 * [Juno Computers](https://junocomputers.com/)
 * [StarLabs](https://starlabs.systems)
 * [Entroware](https://www.entroware.com)
-* ~~[RetroFreedom](https://retrofreedom.com/)~~
 * [Ministry of Freedom](https://minifree.org/)
 
 # Germany
